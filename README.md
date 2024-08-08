@@ -1,1 +1,1 @@
-# TareaPatronesdeDise-o
+# TareaPatronesdeDiseno
