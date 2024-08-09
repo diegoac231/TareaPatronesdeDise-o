@@ -28,4 +28,4 @@
 #### a) ¿Cual patrón escogió?
 - Se escogió el patron de diseño 'Decorator'
 #### b) Diagrama de clases:
-- asdf
+![image](https://github.com/user-attachments/assets/334a20f3-cbb9-428f-8c76-888a7896b3a6)
