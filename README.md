@@ -4,9 +4,9 @@
 - Diego Avila
 ## Ej. 1:
 #### a) ¿Cual patrón escogió?
-- Se escogió el patron de diseño ....
+- Se escogió el patron de diseño 'Prototype'
 #### b) Diagrama de clases:
-- asdf
+![image](https://github.com/user-attachments/assets/6a7e5163-d1c1-4d47-8aa0-18ec74ae4b80)
 ## Ej. 2:
 #### a) ¿Cual patrón escogió?
 - Se escogió el patron de diseño 'Observer'
