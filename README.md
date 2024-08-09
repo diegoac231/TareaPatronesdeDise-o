@@ -20,9 +20,10 @@
 
 ## Ej. 4:
 #### a) ¿Cual patrón escogió?
-- Se escogió el patron de diseño ....
+- Se escogió el patron de diseño 'Command'
 #### b) Diagrama de clases:
-- asdf
+![image](https://github.com/user-attachments/assets/ef44d579-35cc-41b3-8980-915275c61941)
+
 ## Ej. 5:
 #### a) ¿Cual patrón escogió?
 - Se escogió el patron de diseño ....
