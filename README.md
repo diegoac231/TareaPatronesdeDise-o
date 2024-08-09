@@ -26,6 +26,6 @@
 
 ## Ej. 5:
 #### a) ¿Cual patrón escogió?
-- Se escogió el patron de diseño ....
+- Se escogió el patron de diseño 'Decorator'
 #### b) Diagrama de clases:
 - asdf
