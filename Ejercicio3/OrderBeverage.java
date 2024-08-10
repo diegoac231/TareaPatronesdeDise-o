@@ -6,21 +6,25 @@ public class OrderBeverage extends Pedido{
     int price;
     @Override
     public void tomaPedido() {
-        super.tomaPedido();
+        System.out.println("Toma pedido de la bebida");
+        beverage = "Helado"; // Para el ejemplo solo hay una comida
     }
 
     @Override
     public void preparacion() {
-        super.preparacion();
+        System.out.println("Preparando la bebida");
     }
 
     @Override
     public boolean verificarDisponibilidad() {
-        return super.verificarDisponibilidad();
+        boolean disponibilidad = Math.random()<0.5; //Crear un boolean aleatorio
+        return disponibilidad;
     }
 
     @Override
     public void calculoPrecios() {
-        super.calculoPrecios();
+        if ("Helado".equals(beverage)) {
+            price = 2;
+        }
     }
 }
