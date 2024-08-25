@@ -1,5 +1,5 @@
 
-package com.mycompany.patrondiseno1;
+package Ejercicio1;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,5 +1,5 @@
 
-package com.mycompany.patrondiseno1;
+package Ejercicio1;
 
 public class Skill {
     private String name;

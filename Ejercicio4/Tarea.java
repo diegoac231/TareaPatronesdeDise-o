@@ -1,4 +1,4 @@
-package com.mycompany.diseno4;
+package Ejercicio4;
 
 
 public class Tarea {
@@ -26,7 +26,7 @@ public class Tarea {
         return completada;
     }
 
-    void setNombre(String nuevoNombre) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    public boolean setNombre(String nuevoNombre) {
+        return completada;
     }
 }

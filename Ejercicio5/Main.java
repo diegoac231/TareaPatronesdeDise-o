@@ -1,5 +1,5 @@
 
-package com.mycompany.diseno5;
+package Ejercicio5;
 
 public class Main {
     public static void main(String[] args) {
